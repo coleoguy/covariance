@@ -1,0 +1,12 @@
+name: covariance
+title: covariance
+username:
+account: evobir
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3695734
+bundleId: 4273200
+url: https://evobir.shinyapps.io/covariance/
+when: 1614297336.76
+asMultiple: FALSE
+asStatic: FALSE
